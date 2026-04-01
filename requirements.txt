@@ -1,0 +1,14 @@
+torch
+transformers==4.40.2
+tokenizers==0.19.1
+huggingface_hub==0.23.0
+peft==0.10.0
+accelerate==0.28.0
+datasets
+scikit-learn
+pandas
+numpy
+torch-geometric
+matplotlib
+seaborn
+wandb
